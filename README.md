@@ -6,7 +6,7 @@ A machine learning project that classifies the most suitable skincare routine (R
 
 ## 🎯 Project Goal
 
-To build a smart model that recommends a personalized skincare routine.
+* To build a smart model that recommends a personalized skincare routine.
 To compare different models for a multi-category classification problem.
 To present the performance of the models using graphs and metrics.
 
