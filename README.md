@@ -54,10 +54,11 @@ Accuracy comparison graph (bar chart)
 
 ## 🚀 How to Run
 
-1.  Make sure you have installed the necessary libraries:
+ Make sure you have installed the necessary libraries:
    
-bash
+```bash
     pip install pandas scikit-learn matplotlib seaborn openpyxl
+```
    
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # 🧴 מסווג שגרת טיפוח
@@ -116,8 +117,8 @@ bash
 
 ## 🚀 כיצד להריץ
 
-1. ודאו שהתקנתם את הספריות הדרושות:
+ודאו שהתקנתם את הספריות הדרושות:
    
-bash
-
+```bash
    pip install pandas scikit-learn matplotlib seaborn openpyxl
+```
