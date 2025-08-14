@@ -16,15 +16,15 @@ A machine learning project that classifies the most suitable skincare routine (R
 
 The columns in the file include:
 
-Age
-Skin_Type (Oily, Dry, Normal...)
-Sun_Exposure (Low, Medium, High)
-Uses_Products
-Uses_Makeup (True/False)
-Sleep_Hours
-Water_Intake (daily)
-Screen_Time_Hours (daily)
-Recommended_Routine (target label)
+* Age
+* Skin_Type (Oily, Dry, Normal...)
+* Sun_Exposure (Low, Medium, High)
+* Uses_Products
+* Uses_Makeup (True/False)
+* Sleep_Hours
+* Water_Intake (daily)
+* Screen_Time_Hours (daily)
+* Recommended_Routine (target label)
 
 ---
 
@@ -68,9 +68,9 @@ bash
 
 ## 🎯 מטרת הפרויקט
 
-לבנות מודל חכם שממליץ על שגרת טיפוח מותאמת אישית.
-להשוות בין מודלים שונים לבעיה של סיווג רב-קטגורי.
-להציג את ביצועי המודלים באמצעות גרפים ומדדים.
+* לבנות מודל חכם שממליץ על שגרת טיפוח מותאמת אישית.
+* להשוות בין מודלים שונים לבעיה של סיווג רב-קטגורי.
+* להציג את ביצועי המודלים באמצעות גרפים ומדדים.
 
 ---
 
@@ -78,15 +78,15 @@ bash
 
 העמודות בקובץ כוללות:
 
-Age – גיל
-Skin_Type – סוג עור (שומני, יבש, רגיל...)
-Sun_Exposure – חשיפה לשמש (Low, Medium, High)
-Uses_Products – שימוש במוצרי טיפוח
-Uses_Makeup – שימוש באיפור (True/False)
-Sleep_Hours – שעות שינה
-Water_Intake – שתיית מים ביום
-Screen_Time_Hours – זמן מסך יומי
-Recommended_Routine – תווית מטרה (שגרת טיפוח)
+* Age – גיל
+* Skin_Type – סוג עור (שומני, יבש, רגיל...)
+* Sun_Exposure – חשיפה לשמש (Low, Medium, High)
+* Uses_Products – שימוש במוצרי טיפוח
+* Uses_Makeup – שימוש באיפור (True/False)
+* Sleep_Hours – שעות שינה
+* Water_Intake – שתיית מים ביום
+* Screen_Time_Hours – זמן מסך יומי
+* Recommended_Routine – תווית מטרה (שגרת טיפוח)
 
 ---
 
