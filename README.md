@@ -46,9 +46,9 @@ The columns in the file include:
 
 ## 🖼 Graphical Outputs
 
-Confusion matrices for each model
-Scatter plots – prediction vs. true. Note: I chose a classification problem, so the output is not continuous – leading to a less continuous graph.
-Accuracy comparison graph (bar chart)
+* Confusion matrices for each model
+* Scatter plots – prediction vs. true. Note: I chose a classification problem, so the output is not continuous – leading to a less continuous graph.
+* Accuracy comparison graph (bar chart)
 
 ---
 
@@ -109,9 +109,9 @@ Accuracy comparison graph (bar chart)
 
 ## 🖼 תוצרים גרפיים
 
-מטריצות בלבול עבור כל מודל
-גרפי scatter – ניבוי מול אמת. הערה: בחרתי בעיית סיווג, ולכן הפלט אינו רציף – מה שמוביל לגרף פחות רציף.
-גרף השוואת דיוקים (bar chart)
+* מטריצות בלבול עבור כל מודל
+* גרפי scatter – ניבוי מול אמת. הערה: בחרתי בעיית סיווג, ולכן הפלט אינו רציף – מה שמוביל לגרף פחות רציף.
+* גרף השוואת דיוקים (bar chart)
 
 ---
 
